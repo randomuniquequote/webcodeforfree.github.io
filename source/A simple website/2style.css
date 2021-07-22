@@ -1,0 +1,72 @@
+.name .btn3{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    color: #fff;
+    letter-spacing: 0;
+    background-image:linear-gradient(to right, #4458dc 0%,#854fee 100%) ;
+    border: double 2px transparent;
+    box-shadow: 0 10px 30px rgba(118, 85, 225, .3);
+}
+
+.name1 .btn4{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    color: #fff;
+    letter-spacing: 0;
+    background-image:linear-gradient(to right, #4458dc 0%,#854fee 100%) ;
+    border: double 2px transparent;
+    box-shadow: 0 10px 30px rgba(118, 85, 225, .3);
+}
+
+.name2 .btn5{
+     text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    color: #fff;
+    letter-spacing: 0;
+    background-image:linear-gradient(to right, #4458dc 0%,#854fee 100%) ;
+    border: double 2px transparent;
+    box-shadow: 0 10px 30px rgba(118, 85, 225, .3);
+}
+
+.name3 .btn6{
+     text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    color: #fff;
+    letter-spacing: 0;
+    background-image:linear-gradient(to right, #4458dc 0%,#854fee 100%) ;
+    border: double 2px transparent;
+    box-shadow: 0 10px 30px rgba(118, 85, 225, .3);
+}
+
